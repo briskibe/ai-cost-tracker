@@ -197,7 +197,7 @@ If this saves you **time** or **money**, please star the repo!
 
 It helps others discover the project and motivates us to keep improving it.
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ai-cost-tracker?style=social)](https://github.com/YOUR_USERNAME/ai-cost-tracker/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/briskibe/ai-cost-tracker?style=social)](https://github.com/briskibe/ai-cost-tracker/stargazers)
 
 ---
 
